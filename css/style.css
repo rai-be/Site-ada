@@ -67,3 +67,22 @@ a{
   color: #99ffff;
   font-weight: 700;
 }
+
+.principal{
+   background: #ff6cb5;
+   height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+ }
+
+.principal a{
+   color: #fff;
+   text-decoration: underline;
+   font-weight: normal;
+}
+ 
+.principal li{
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 89px;
+  }
